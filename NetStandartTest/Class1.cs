@@ -2,6 +2,7 @@
 
 namespace NetStandartTest
 {
+	// test
     public class Class1
     {
     }
